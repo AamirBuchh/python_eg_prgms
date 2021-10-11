@@ -1,0 +1,13 @@
+a=2
+b=7
+print("a=")
+print(a)
+print("b=")
+print(b)
+a=a+b
+b=a-b
+a=a-b
+print("a=")
+print(a)
+print("b=")
+print(b)
